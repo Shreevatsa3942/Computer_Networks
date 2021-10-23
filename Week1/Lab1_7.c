@@ -1,3 +1,9 @@
+/*Program7:Write a program to accept an integer 
+before forking and child has to generate multiplication
+table corresponding to the integer.*/
+
+//Name:Shreevatsa
+//Regno:200970093
 #include<stdio.h>
 #include<unistd.h>
 
